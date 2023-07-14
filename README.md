@@ -1,2 +1,2 @@
 # Seismic_Machine_Learning
-An introduction on how machine learning techniques can be used automate the intrepretation of seismic reflectivity data. Modified from my Master's Thesis project titled "Developing Screening Tools to Assess CO2 Storage".
+An introduction on how machine learning techniques can be used automate the intrepretation of seismic reflectivity data. This repository explores an unsupervised model within the computer vision field of semantic image segmentation, known as K-Means Clustering. Modified from my Master's Thesis project titled "Developing Screening Tools to Assess CO2 Storage", with the final report attached. Due to size, datasets used in the initial study are in progress of being uploaded.
